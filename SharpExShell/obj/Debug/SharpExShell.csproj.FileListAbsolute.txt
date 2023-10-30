@@ -1,0 +1,2 @@
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\obj\Debug\SharpExShell.csproj.AssemblyReference.cache
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\obj\Debug\SharpExShell.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\bin\x64\Release\SharpExShell.exe.config
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\bin\x64\Release\SharpExShell.exe
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\bin\x64\Release\SharpExShell.pdb
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\bin\x64\Release\NDesk.Options.dll
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\obj\x64\Release\SharpExShell.csproj.CoreCompileInputs.cache
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\obj\x64\Release\SharpExShell.csproj.CopyComplete
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\obj\x64\Release\SharpExShell.exe
+C:\Users\rpatel\Documents\BlogPost\DCOM Lateral Movement using ActivateMicrosoftApp\4.5\SharpExShell\SharpExShell\obj\x64\Release\SharpExShell.pdb
